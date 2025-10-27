@@ -7,7 +7,7 @@ Tel-Aviv University, February 2025
 
 ## Abstract
 
-This paper presents an enhancement to TAU Online Tutor (OT), an AI-powered educational assistant designed to support the university students, by integrating metadatabased querying into a Retrieval-Augmented Generation (RAG) framework. 
+[This paper](https://github.com/YaarKoren/Metadata-Hybrid-Search-LLM-TAU-Tutor/blob/main/paper/Metadata_Driven_Hybrid_Search_for_Enhanced_TAU_Online_Tutor.pdf) presents an enhancement to TAU Online Tutor (OT), an AI-powered educational assistant designed to support the university students, by integrating metadatabased querying into a Retrieval-Augmented Generation (RAG) framework. 
 Our approach enhances both retrieval and answer generation through metadata-driven capabilities by introducing an additional LLM step, along with architectural functions and logic, to parse and analyze user queries, refining downstream retrieval and generationprocesses. 
 The query parsing mechanism, referred to as self-querying, employs a LLM to extract metadata directly from user queries, enabling metadata-based filtering in the vector database. 
 Further analysis of the parsed query enabled the incorporation of adaptive strategies, optimizing both retrieval parameters and the answer generation process. 
