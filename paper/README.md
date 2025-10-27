@@ -1,3 +1,2 @@
-# paper folder
+# final paper folder
 
-contains final paper
